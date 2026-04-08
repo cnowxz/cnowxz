@@ -5,6 +5,9 @@ To build a good foundation, I am studying thoroughly from the basics, and my goa
 My motto is to create a better today than yesterday with consistency and sincerity. I want to become a developer and be a person who adds value to the world.
 
 #currently -C++,SW,logic circuit
+
 #Interested in -Embedded Systems, System Programming
+
 #**mail** -0519jiwon@gmail.com
+
 #**instagram ID** -cnowxz
